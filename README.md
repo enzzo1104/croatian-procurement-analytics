@@ -27,3 +27,7 @@ Portfolio projekt za analizu podataka o hrvatskoj javnoj nabavi iz 2024. godine.
 ```powershell
 python -m pytest -v
 ```
+
+## Dashboard
+
+![Power BI dashboard](docs/images/dashboard.png)
