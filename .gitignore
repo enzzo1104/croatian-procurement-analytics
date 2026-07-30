@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.ipynb_checkpoints/
+*.egg-info/
+
+data/raw/2024/
+data/processed/*.csv
+data/processed/*.json
